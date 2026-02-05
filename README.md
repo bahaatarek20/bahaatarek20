@@ -132,7 +132,3 @@ Miscellaneous tools and utilities that support my development workflow:
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![GAUTAM MANAK profile views](https://u8views.com/api/v1/github/profiles/106014185/views/day-week-month-total-count.svg)](https://u8views.com/github/gautammanak1)
-[![](https://visitcount.itsvg.in/api?id=gautammanak1&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gautammanak1)
