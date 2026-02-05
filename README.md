@@ -8,7 +8,7 @@
 
 ## About Me
 
-👋 Hi, I'm Bahaa Tarek — a Developer Advocate, Full Stack Engineer, and Community Builder from Egypt 🇮🇳. I specialize in building intelligent agent systems using technologies like uAgents, CrewAI, MCP, and LangChain, and have developed multiple AI agents. With a strong foundation in JavaScript, TypeScript, Next.js, React.js, Node.js, and Python, I bridge development with advocacy by hosting workshops, creating content, and mentoring developers through events and community work. I'm passionate about solving real-world problems with AI, automation, and open-source collaboration. You’ll often find me exploring emerging tech, mentoring upcoming developers, and contributing to the agent economy.
+👋 Hi, I'm Bahaa Tarek — a Developer Advocate, Full Stack Engineer, and Community Builder from Egypt 🇪🇬. I specialize in building intelligent agent systems using technologies like uAgents, CrewAI, MCP, and LangChain, and have developed multiple AI agents. With a strong foundation in JavaScript, TypeScript, Next.js, React.js, Node.js, and Python, I bridge development with advocacy by hosting workshops, creating content, and mentoring developers through events and community work. I'm passionate about solving real-world problems with AI, automation, and open-source collaboration. You’ll often find me exploring emerging tech, mentoring upcoming developers, and contributing to the agent economy.
 
 ## Professional Experience
 
